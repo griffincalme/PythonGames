@@ -1,2 +1,2 @@
 # PythonGames
-Fork of Raspbian Python Games -- with game edits
+Fork of Raspbian Python Games -- with a few mods
